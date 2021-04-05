@@ -1,0 +1,11 @@
+time,deviceID,sensor,value
+0,-1,N_technicians,0.0
+0,-1,N_operating,1000.0
+0,-1,N_failed,0.0
+0,-1,N_repair,0.0
+0,-1,N_maintenance,0.0
+1,1,temperature,-0.0247634576737265
+1,1,production_rate,0.9971612468261760
+1,9,temperature,-0.0138621348551353
+1,9,production_rate,0.9985759425457800
+1,11,temperature,-0.0373034887513702
